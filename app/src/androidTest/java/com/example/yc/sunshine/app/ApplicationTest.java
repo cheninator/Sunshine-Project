@@ -1,4 +1,4 @@
-package com.example.yonni.sunshine;
+package com.example.yc.sunshine.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
